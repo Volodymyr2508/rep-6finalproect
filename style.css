@@ -104,3 +104,8 @@ text-align: center;
     background-color: rgb(123,122,122);
     transition: 1s;
 }
+.a1{
+    color: black;
+    margin-top: 20px;
+    vackground-color: light-blue;
+    border-radius: 10px;
