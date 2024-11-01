@@ -105,9 +105,9 @@ text-align: center;
     transition: 1s;
 }
 .a1{
-    color: black;
+    color: white;
     margin-top: 20px;
-    vackground-color: light-blue;
+    background-color: red;
     border-radius: 10px;
-    fonr-size: 20px;
+    font-size: 20px;
 }
